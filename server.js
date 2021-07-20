@@ -44,7 +44,7 @@ NetWorth:"",
   
 bot.command({
 name:"help",
-code`
+code:`
 $title[My Commands]
 $description[
 Moderation- warn, ban, kick, unban, unwarn, ping, snipe, addrole, removerole, poll
