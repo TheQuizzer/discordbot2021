@@ -362,6 +362,8 @@ $addField[General;
 
 \`🏅\` All Channels Count: $allChannelsCount
 
+\`🎚️\` Servers Count: $serverCount
+
 All Text Channels : $allChannelsCount[text]
 All Voice Channels: $allChannelsCount[voice]
 
