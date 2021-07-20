@@ -47,19 +47,16 @@ name:"help",
 code:`
 $title[My Commands]
 $description[
-Moderation- warn, ban, kick, unban, unwarn, ping, snipe, addrole, removerole, poll
-
-Info- userinfo, roleinfo, channelinfo, serverinfo, botinfo
-
-Image- slap, car, stonks, meme, rip
-
-Economy- with, dep, bal, work, slots, beg, weekly, daily, give
-
+Moderation- \`warn, ban, kick, unban, unwarn, ping, snipe, addrole, removerole, poll\`
+Info- \`userinfo, roleinfo, channelinfo, serverinfo, botinfo\`
+Image- \`slap, car, stonks, meme, rip\`
+Economy- \`with, dep, bal, work, slots, beg, weekly, daily, give\`
 ]
 $color[RANDOM]
 `
 
 })
+
 
 //COMMANDS-
 
