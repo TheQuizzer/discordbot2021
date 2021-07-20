@@ -1,0 +1,23 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.2.1",
+    "canvas": "^2.8.0",
+    "dbd.js": "^4.0.0",
+    "discord-canvas": "^1.3.2",
+    "discord.js": "^12.5.3",
+    "mathjs": "^9.4.4",
+    "quick.db": "^7.1.3"
+  }
+}
